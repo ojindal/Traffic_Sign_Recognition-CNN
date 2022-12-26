@@ -11,8 +11,9 @@ This project aims to implement real-time traffic sign detection and recognition.
 
 ## Poster.
 <p align="center">
-  <img width="1000" alt="image" src="https://github.com/ojindal/Traffic_Sign_Recognition-CNN/files/10304432/PosterTeam47.pdf">
+  <img width="1000" alt="image" src="https://user-images.githubusercontent.com/89351094/209574238-76bd4a55-3711-4029-ad8b-27ae0e31101b.jpg">
  </p>
+
 
 
 ## How to run the code
