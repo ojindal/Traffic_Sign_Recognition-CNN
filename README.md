@@ -4,12 +4,7 @@
 This project aims to implement real-time traffic sign detection and recognition. The first task to solve this problem would be to detect where the traffic sign is located in the picture taken by the dashboard camera, which is done by using a famous architecture called Faster R-CNN. The next task will be to classify the portion of the image that represents a traffic sign which we performed using a custom CNN architecture.
 </p>
 
-## Project Report
-[Hatim Alhazmi, Orish Jindal, Vaibhav Bishi, 'Traffic Sign Recognition Using CNN.
-', ECE 228, Course Project, UCSD](https://github.com/ojindal/Traffic_Sign_Recognition-CNN/blob/main/ECE228%20Milestone-Report.pdf)
-
-
-## Poster.
+## Project Poster
 <p align="center">
   <img width="1000" alt="image" src="https://user-images.githubusercontent.com/89351094/209574238-76bd4a55-3711-4029-ad8b-27ae0e31101b.jpg">
  </p>
